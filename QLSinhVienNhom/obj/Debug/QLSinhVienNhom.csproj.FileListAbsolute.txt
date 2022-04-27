@@ -1,0 +1,11 @@
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\bin\Debug\QLSinhVienNhom.exe.config
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\bin\Debug\QLSinhVienNhom.exe
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\bin\Debug\QLSinhVienNhom.pdb
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.csproj.AssemblyReference.cache
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.Form1.resources
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.Properties.Resources.resources
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.csproj.GenerateResource.cache
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.csproj.CoreCompileInputs.cache
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.exe
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.pdb
+D:\Visual studio 2019\c#\QLSinhVienNhom\QLSinhVienNhom\obj\Debug\QLSinhVienNhom.Form2.resources
